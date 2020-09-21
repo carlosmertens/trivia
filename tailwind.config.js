@@ -7,7 +7,7 @@ module.exports = {
   theme: {
     extend: {
       gridTemplateRows: {
-        'basic-page': '25% auto 15%',
+        'basic-page': '65px auto 65px',
       },
     },
   },
